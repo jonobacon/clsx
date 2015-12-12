@@ -7,3 +7,9 @@ While there is a primary annual event, we also encourage regional events called 
 Anyone is welcome to run a CLSx event, but a license is required. See `clsx-license.md` in this repo for more details.
 
 This repo contains the CLSx, materials, and other things that relate to the operation of the CLSx project.
+
+## Contributing Here
+
+If you would like to make improvements to the material here, please clone the repo and then submit a pull request.
+
+For suggestions or issues with this material, please file an issue.
